@@ -1,6 +1,10 @@
 PayPal PHP SDK release notes
 ============================
 
+1.14.1
+-----
+* Fix "Required parameter follows optional parameter" deprecation notices in PHP 8.
+
 1.14.0
 -----
 * Update sdk_config.ini log.LogLevel comments [#983](https://github.com/paypal/PayPal-PHP-SDK/pull/983).
